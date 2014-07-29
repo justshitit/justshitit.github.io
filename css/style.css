@@ -655,6 +655,9 @@
 		#logo a {
 			font-size: 1.25em;
 		}
+	#gold{
+		color: rgb(255,215,0);
+	}
 	
 	#nav {
 		position: absolute;

@@ -91,6 +91,10 @@
 		#logo a {
 			font-size: 1em;
 		}
+		
+	#gold{
+		color: rgb(255,215,0);
+	}
 	
 	#nav {
 		display: none;
